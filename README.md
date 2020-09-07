@@ -1,19 +1,30 @@
-# questions
+# Тестовое задание
 
-## Project setup
+Одностраничное приложение-опросник
+v 1.0.0
+
+# В работе использовались:
+
+- Vue (Vuex, Vue-Router)
+- Pug/Sass
+
+# Структура и функционал
+
+Структура и функционал описаны в приветственном сообщении, которое появляется при первом запуске приложения :)
+
+# Демо
+
+https://vyacheslavvoitenok.github.io/Questions-test-task
+
+
+# Установка и запуск
+
 ```
-npm install
+npm install && npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Контакты разработчика
 
-### Compiles and minifies for production
 ```
-npm run build
+letterthing@yandex.ru
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

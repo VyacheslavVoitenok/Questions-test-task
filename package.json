@@ -1,6 +1,6 @@
 {
-  "name": "questions",
-  "version": "0.1.0",
+  "name": "Questions-SPA",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "vue": "^2.6.11",
+    "vue-clipboard2": "^0.3.1",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
@@ -16,6 +17,8 @@
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "node-sass": "^4.12.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
